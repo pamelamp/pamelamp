@@ -1,4 +1,5 @@
-## Hi there 👋 [[ESP abajo]](#hola)
+## Hi there 👋 
+<!--[[ESP abajo]](#hola)-->
 
 I'm Pamela, a Computer Science Engineering student at Universidad de Chile.  
 
@@ -17,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hola 👋 [[ENG above]](#hi-there)
+## Hola 👋 
+<!--[[ENG above]](#hi-there)-->
 
 Soy Pamela, una estudiante de Ingeniería Civil en Computación en la Universidad de Chile
