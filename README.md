@@ -3,6 +3,7 @@
 
 I'm Pamela, a Computer Science Engineering student at Universidad de Chile.  
 
+My full CV is available [here](https://github.com/pamelamp/pamelamp/blob/main/pamela_mendoza_eng.pdf)
 <!--
 **pamelamp/pamelamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +22,6 @@ Here are some ideas to get you started:
 ## Hola 👋 
 <!--[[ENG above]](#hi-there)-->
 
-Soy Pamela, una estudiante de Ingeniería Civil en Computación en la Universidad de Chile
+Soy Pamela, una estudiante de Ingeniería Civil en Computación en la Universidad de Chile.
+
+My CV completo está disponible [aquí](https://github.com/pamelamp/pamelamp/blob/main/pamela_mendoza_esp.pdf)
