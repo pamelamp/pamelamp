@@ -1,7 +1,7 @@
 ## Hi there 👋 
 <!--[[ESP abajo]](#hola)-->
 
-I'm Pamela, a Computer Science Engineering student at Universidad de Chile.  
+I'm Pamela, a Computer Science Engineering student looking for internship opportunities.  
 
 My full CV is available [here](https://github.com/pamelamp/pamelamp/blob/main/pamela_mendoza_eng.pdf)
 <!--
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ## Hola 👋 
 <!--[[ENG above]](#hi-there)-->
 
-Soy Pamela, una estudiante de Ingeniería Civil en Computación en la Universidad de Chile.
+Soy Pamela, una estudiante de Ingeniería Civil en Computación buscando oportunidades de práctica profesional.
 
 My CV completo está disponible [aquí](https://github.com/pamelamp/pamelamp/blob/main/pamela_mendoza_esp.pdf)
