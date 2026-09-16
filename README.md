@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 [[ESP abajo]](#hola)
+
+I'm Pamela, a Computer Science Engineering student at Universidad de Chile.  
 
 <!--
 **pamelamp/pamelamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hola 👋 [[ENG above]](#hi-there)
+
+Soy Pamela, una estudiante de Ingeniería Civil en Computación en la Universidad de Chile
